@@ -1,0 +1,388 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\jaide\Desktop
+Earray_multiplier
+Z0 w1621120591
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 dC:\Users\jaide\OneDrive\Jaideep\School\IITJ\Trimester 3\Digital and SoC Design\Assignment 3
+Z4 8C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/array_multiplier.vhd
+Z5 FC:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/array_multiplier.vhd
+l0
+L10
+V[Nn98JlRU?6WL]dA4J]3G2
+Z6 OV;C;10.1b;51
+33
+Z7 !s108 1621120732.903000
+Z8 !s90 -reportprogress|300|-work|work|-2008|-explicit|C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/array_multiplier.vhd|
+Z9 !s107 C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/array_multiplier.vhd|
+Z10 o-work work -2008 -explicit -O0
+Z11 tExplicit 1
+!s100 2bgLZR9^4=:BGBO>0^3JY0
+!i10b 1
+Aarc
+R1
+R2
+DEx4 work 16 array_multiplier 0 22 [Nn98JlRU?6WL]dA4J]3G2
+l55
+L27
+V34Pj^io0fkRfF2jUID?4Y1
+R6
+33
+R7
+R8
+R9
+R10
+R11
+!s100 Rg=:X>DXVPLj:YeH26V6I3
+!i10b 1
+Earray_multiplier_tb
+Z12 w1621108997
+Z13 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+R1
+R2
+R3
+Z14 8C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/array_multiplier_tb.vhd
+Z15 FC:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/array_multiplier_tb.vhd
+l0
+L5
+V2ih@a4OnLkQeQo_;gokgD0
+R6
+33
+Z16 !s108 1621120732.980000
+Z17 !s90 -reportprogress|300|-work|work|-2008|-explicit|C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/array_multiplier_tb.vhd|
+Z18 !s107 C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/array_multiplier_tb.vhd|
+R10
+R11
+!s100 dQQz0H<MXioSf<mVEK8G51
+!i10b 1
+Atest
+R13
+R1
+R2
+DEx4 work 19 array_multiplier_tb 0 22 2ih@a4OnLkQeQo_;gokgD0
+l35
+L8
+VINKgkTQcI5O?l<bZPKoD^1
+R6
+33
+R16
+R17
+R18
+R10
+R11
+!s100 ]_Z]HhVRU2A7E?3LNZ3SV3
+!i10b 1
+Ecarry_lookahead_adder
+Z19 w1621119605
+R1
+R2
+R3
+Z20 8C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/carry_lookahead_adder.vhd
+Z21 FC:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/carry_lookahead_adder.vhd
+l0
+L8
+V473WA_AnkDaN9la@>gImI2
+R6
+33
+Z22 !s108 1621120733.050000
+Z23 !s90 -reportprogress|300|-work|work|-2008|-explicit|C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/carry_lookahead_adder.vhd|
+Z24 !s107 C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/carry_lookahead_adder.vhd|
+R10
+R11
+!s100 aEBXPaJWXEjli1hX@JY4F2
+!i10b 1
+Aarc
+R1
+R2
+DEx4 work 21 carry_lookahead_adder 0 22 473WA_AnkDaN9la@>gImI2
+l53
+L27
+V[DzeV`h>fZNO^X1czJ>6j2
+R6
+33
+R22
+R23
+R24
+R10
+R11
+!s100 ]Xg9:o]EQiYmU[2V^HS:O2
+!i10b 1
+Eclock
+Z25 w1617483758
+R1
+R2
+R3
+Z26 8C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/clock.vhd
+Z27 FC:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/clock.vhd
+l0
+L15
+VoEIDg:<Ajh@=^lm;WoPGb3
+R6
+33
+Z28 !s108 1621120733.113000
+Z29 !s90 -reportprogress|300|-work|work|-2008|-explicit|C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/clock.vhd|
+Z30 !s107 C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/clock.vhd|
+R10
+R11
+!s100 ^`0R2FK75]L0zL25eHQH70
+!i10b 1
+Aarc
+R1
+R2
+DEx4 work 5 clock 0 22 oEIDg:<Ajh@=^lm;WoPGb3
+l31
+L28
+Vzc:8g;2kLF:=[lg<emk9N1
+R6
+33
+R28
+R29
+R30
+R10
+R11
+!s100 iU;clci>0Hn18KVW_]W;60
+!i10b 1
+Econvolution_kernel
+Z31 w1621120676
+R1
+R2
+Z32 DPx4 work 5 types 0 22 6IgfFzlo:4^5BBRmX8>Im0
+R3
+Z33 8C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/convolution_kernel.vhd
+Z34 FC:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/convolution_kernel.vhd
+l0
+L13
+V]OcHJneAH<MZRKnfChQ]T3
+R6
+33
+Z35 !s108 1621120733.183000
+Z36 !s90 -reportprogress|300|-work|work|-2008|-explicit|C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/convolution_kernel.vhd|
+Z37 !s107 C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/convolution_kernel.vhd|
+R10
+R11
+!s100 oKYoh?fY<_fF?olE;0=8d3
+!i10b 1
+Aarc
+R1
+R2
+R32
+DEx4 work 18 convolution_kernel 0 22 ]OcHJneAH<MZRKnfChQ]T3
+l57
+L34
+Vel4PL9O0W9zO=lPB5USBA0
+R6
+33
+R35
+R36
+R37
+R10
+R11
+!s100 D`aRIJ<0E6Qf46`9U4TIQ2
+!i10b 1
+Econvolution_kernel_tb
+Z38 w1621118216
+R32
+R13
+R1
+R2
+R3
+Z39 8C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/convolution_kernel_tb.vhd
+Z40 FC:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/convolution_kernel_tb.vhd
+l0
+L6
+V5S_ho6a_T:lDjcOkB`^^02
+R6
+33
+Z41 !s108 1621120733.243000
+Z42 !s90 -reportprogress|300|-work|work|-2008|-explicit|C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/convolution_kernel_tb.vhd|
+Z43 !s107 C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/convolution_kernel_tb.vhd|
+R10
+R11
+!s100 VKV=e>ma<Z2ekeAJJQGU21
+!i10b 1
+Atest
+R32
+R13
+R1
+R2
+DEx4 work 21 convolution_kernel_tb 0 22 5S_ho6a_T:lDjcOkB`^^02
+l41
+L10
+V[XI^cnlg5^SbHEHK?KMSR2
+R6
+33
+R41
+R42
+R43
+R10
+R11
+!s100 LJJ?]C7<ogk@DeU>K;2T41
+!i10b 1
+Efull_adder
+Z44 w1621119851
+R1
+R2
+R3
+Z45 8C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/full_adder.vhd
+Z46 FC:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/full_adder.vhd
+l0
+L7
+Vk@zJE_VK36n:YgR5Hkk2O0
+R6
+33
+Z47 !s108 1621120733.308000
+Z48 !s90 -reportprogress|300|-work|work|-2008|-explicit|C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/full_adder.vhd|
+Z49 !s107 C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/full_adder.vhd|
+R10
+R11
+!s100 769dhoz^U5gd>m9SZ2SfV3
+!i10b 1
+Aarc
+R1
+R2
+DEx4 work 10 full_adder 0 22 k@zJE_VK36n:YgR5Hkk2O0
+l27
+L24
+V1GHg?RCG9AhnWNPWNfHUg1
+R6
+33
+R47
+R48
+R49
+R10
+R11
+!s100 DRijeA5;nj4GF5elI?giX2
+!i10b 1
+Ehalf_adder
+Z50 w1621119872
+R1
+R2
+R3
+Z51 8C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/half_adder.vhd
+Z52 FC:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/half_adder.vhd
+l0
+L7
+VSVTAI]^F6Dl:>Xk]RQ8HZ2
+R6
+33
+Z53 !s108 1621120733.369000
+Z54 !s90 -reportprogress|300|-work|work|-2008|-explicit|C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/half_adder.vhd|
+Z55 !s107 C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/half_adder.vhd|
+R10
+R11
+!s100 bG:Lgl[8dCgIQN6B[LkBb1
+!i10b 1
+Aarc
+R1
+R2
+DEx4 work 10 half_adder 0 22 SVTAI]^F6Dl:>Xk]RQ8HZ2
+l23
+L22
+VRQkcGK^@QSmNA`WzXb?ci3
+R6
+33
+R53
+R54
+R55
+R10
+R11
+!s100 i]JHUD8DRW;5`z`z:C;9i1
+!i10b 1
+Ptypes
+R1
+R2
+w1621117439
+R3
+8C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/types.vhd
+FC:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/types.vhd
+l0
+L4
+V6IgfFzlo:4^5BBRmX8>Im0
+!s100 ?WLkDC<iZ;Wne>RKX7E7T0
+R6
+33
+!i10b 1
+!s108 1621120733.561000
+!s90 -reportprogress|300|-work|work|-2008|-explicit|C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/types.vhd|
+!s107 C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/types.vhd|
+R10
+R11
+Evector_multiplier
+Z56 w1621120480
+R1
+R2
+R32
+R3
+Z57 8C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/vector_multiplier.vhd
+Z58 FC:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/vector_multiplier.vhd
+l0
+L13
+Vh5>UDc8o=7_7c;LA6kNJR1
+R6
+33
+Z59 !s108 1621120733.428000
+Z60 !s90 -reportprogress|300|-work|work|-2008|-explicit|C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/vector_multiplier.vhd|
+Z61 !s107 C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/vector_multiplier.vhd|
+R10
+R11
+!s100 RONJPgK_EKFUl:Y_WJlbB2
+!i10b 1
+Aarc
+R1
+R2
+R32
+DEx4 work 17 vector_multiplier 0 22 h5>UDc8o=7_7c;LA6kNJR1
+l71
+L32
+VNmNVag9c:I1OGEz_Q69K<0
+R6
+33
+R59
+R60
+R61
+R10
+R11
+!s100 5ha]mXRQ<[_hI]H21Cokj0
+!i10b 1
+Evector_multiplier_tb
+Z62 w1621117452
+R32
+R13
+R1
+R2
+R3
+Z63 8C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/vector_multiplier_tb.vhd
+Z64 FC:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/vector_multiplier_tb.vhd
+l0
+L6
+VL6l2kTz[YL6hmOdKTn7cJ2
+R6
+33
+Z65 !s108 1621120733.487000
+Z66 !s90 -reportprogress|300|-work|work|-2008|-explicit|C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/vector_multiplier_tb.vhd|
+Z67 !s107 C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/vector_multiplier_tb.vhd|
+R10
+R11
+!s100 Qh3c^ALk0g2`]8;=z]QX;2
+!i10b 1
+Atest
+R32
+R13
+R1
+R2
+DEx4 work 20 vector_multiplier_tb 0 22 L6l2kTz[YL6hmOdKTn7cJ2
+l38
+L10
+VzAIZh7V5=Fze5T_g=lYOH2
+!s100 @la6f?UJGlkK0mK>?Dj?c3
+R6
+33
+R65
+R66
+R67
+R10
+R11
+!i10b 1

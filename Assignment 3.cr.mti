@@ -1,0 +1,95 @@
+{C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/carry_lookahead_adder.vhd} {1 {vcom -work work -2008 -explicit {C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/carry_lookahead_adder.vhd}
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity carry_lookahead_adder
+-- Compiling architecture arc of carry_lookahead_adder
+
+} {} {}} {C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/convolution_kernel.vhd} {1 {vcom -work work -2008 -explicit {C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/convolution_kernel.vhd}
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package types
+-- Compiling entity convolution_kernel
+-- Compiling architecture arc of convolution_kernel
+
+} {} {}} {C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/clock.vhd} {1 {vcom -work work -2008 -explicit {C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/clock.vhd}
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity clock
+-- Compiling architecture arc of clock
+
+} {} {}} {C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/vector_multiplier.vhd} {1 {vcom -work work -2008 -explicit {C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/vector_multiplier.vhd}
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package types
+-- Compiling entity vector_multiplier
+-- Compiling architecture arc of vector_multiplier
+
+} {} {}} {C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/array_multiplier.vhd} {1 {vcom -work work -2008 -explicit {C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/array_multiplier.vhd}
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity array_multiplier
+-- Compiling architecture arc of array_multiplier
+
+} {} {}} {C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/convolution_kernel_tb.vhd} {1 {vcom -work work -2008 -explicit {C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/convolution_kernel_tb.vhd}
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package types
+-- Compiling entity convolution_kernel_tb
+-- Compiling architecture test of convolution_kernel_tb
+
+} {} {}} {C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/types.vhd} {1 {vcom -work work -2008 -explicit {C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/types.vhd}
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling package types
+
+} {} {}} {C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/half_adder.vhd} {1 {vcom -work work -2008 -explicit {C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/half_adder.vhd}
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity half_adder
+-- Compiling architecture arc of half_adder
+
+} {} {}} {C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/full_adder.vhd} {1 {vcom -work work -2008 -explicit {C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/full_adder.vhd}
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity full_adder
+-- Compiling architecture arc of full_adder
+
+} {} {}} {C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/array_multiplier_tb.vhd} {1 {vcom -work work -2008 -explicit {C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/array_multiplier_tb.vhd}
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity array_multiplier_tb
+-- Compiling architecture test of array_multiplier_tb
+
+} {} {}} {C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/vector_multiplier_tb.vhd} {1 {vcom -work work -2008 -explicit {C:/Users/jaide/OneDrive/Jaideep/School/IITJ/Trimester 3/Digital and SoC Design/Assignment 3/src/vector_multiplier_tb.vhd}
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package types
+-- Compiling entity vector_multiplier_tb
+-- Compiling architecture test of vector_multiplier_tb
+
+} {} {}}
